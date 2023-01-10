@@ -1,6 +1,8 @@
 # Find-Affordable-Flights
 This mini project is Affordable Flights developed in java using Graphs data structure
 
+# Note: 
+You can find the src code under master branch
 
 https://user-images.githubusercontent.com/109361931/211408797-1a447fb8-89d9-4aac-aa84-dc8dbe9dcfbd.mp4
 
