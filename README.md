@@ -14,5 +14,7 @@ It is the user-interactive program where the user can view the most affordable f
 
 # How to Run?
 Open Folder in IDE
+
 Run Main.java file in cmd
+
 Hit Enter
