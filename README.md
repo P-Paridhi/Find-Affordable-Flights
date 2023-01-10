@@ -12,3 +12,7 @@ Once you hit enter, you get to see the most affordable(Affordable in terms of co
 
 It is the user-interactive program where the user can view the most affordable flight path, by making use of the simple input.
 
+# How to Run?
+Open Folder in IDE
+Run Main.java file in cmd
+Hit Enter
